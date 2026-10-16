@@ -51,15 +51,6 @@ Buy at [pay.foxterm.app](https://pay.foxterm.app).
 - **Native crypto** — C-native engines with Ed25519 and modern cipher suites
 - **iCloud sync** — configuration synced exclusively through your private, encrypted iCloud container
 
-## Building from source
-
-Requires Xcode and CocoaPods.
-
-```bash
-pod install
-open FoxTerm.xcworkspace
-```
-
 ## Support
 
 - Email: [foxterm@icloud.com](mailto:foxterm@icloud.com)
