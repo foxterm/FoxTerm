@@ -1,3 +1,5 @@
+[English](README.md) | [中文文档](README_CN.md)
+
 # FoxTerm
 
 > Fast, private terminal tools — built by an engineer, for engineers.
@@ -23,6 +25,18 @@ SSH · VNC · SFTP · Docker · Podman — a high-performance, privacy-first ter
 | macOS (DMG) | [GitHub Releases](https://github.com/foxterm/FoxTerm/releases/latest/download/FoxTerm.dmg) |
 | macOS & iOS/iPadOS | [App Store](https://apps.apple.com/us/app/foxterm/id6760452891) |
 | Website | [foxterm.app](https://foxterm.app) |
+
+## Core Libraries
+
+| Repository | Description |
+|------------|-------------|
+| [SSH](https://github.com/foxterm/SSH) | SSH core — session, SFTP, SCP, shell, port forwarding, host monitoring |
+| [VNC](https://github.com/foxterm/VNC) | VNC client — remote desktop, frame rendering, input, clipboard |
+| [libetos](https://github.com/foxterm/libetos) | C utilities — socket, buffer, crypto, sync, Base64 |
+| [Sync](https://github.com/foxterm/Sync) | Concurrency primitives — Atomic, Mutex, WaitGroup |
+| [Proxy](https://github.com/foxterm/Proxy) | Network proxy — SOCKS5, HTTP CONNECT |
+| [Extension](https://github.com/foxterm/Extension) | Foundation extensions — String, Data, Integer, Color, IP, Net |
+| [ChartUI](https://github.com/foxterm/ChartUI) | SwiftUI charts — dot segment bar, load rings, pie charts |
 
 ## Requirements
 
